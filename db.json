@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "ghatal",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "add",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "as",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "as",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "as",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Thats' all from my side",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Thats' all from addmy side",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
